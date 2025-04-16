@@ -13,7 +13,17 @@ I started by building a relational database in MySQL from scratch, giving me a s
 
 This project wasn’t just about crunching numbers; it was about turning raw data into a clear story that could guide Orion Health’s future strategies. Through this work, I strengthened my abilities in database design, data standardization, and visualization while showing how data can drive smarter decision making.
 
+## Dataset used 
 
+<!--
+
+- Make a small SQL introduction.
+- Present the four tables.
+-
+
+-->
+
+- <a href= "https://github.com/MR-S92/PowerBI-SQL-Data-Analysis-Orion-Health-Insurance/blob/main/Orion_Health_Insurance.sql">Link to SQL Dataset</a>
 
 ## Statistical Methods
 Project implementation statistical methods are essential for summarizing data, uncovering patterns, and supporting decision-making. 
@@ -35,9 +45,6 @@ These methods are widely applicable because they address the core needs of healt
 This is a dropdown with text!
 </details>
 
-## Dataset used 
-
-- <a href= "https://github.com/MR-S92/PowerBI-SQL-Data-Analysis-Orion-Health-Insurance/blob/main/Orion_Health_Insurance.sql">Link to SQL Dataset</a>
 
 
 
