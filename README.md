@@ -7,7 +7,13 @@
 
 ## Introduction:  
 
-Designed and implemented a comprehensive data analysis project to enhance proficiency in MySQL and Power BI skills. The project focused on analyzing member data for a health insurance provider, Orion Health Insurance. The process involved independently generating a relational database in MySQL. Subsequently, Power BI was used to develop interactive dashboards and visualizations, enabling meaningful insights into member demographics, enrollment trends, and policy related business decisions without relying on any external datasets.
+To sharpen my data analysis skills and tackle a real world challenge, I designed and carried out a detailed project centered on member data for Orion Health Insurance, a health insurance provider. My goal was to leverage my expertise in MySQL and Power BI to uncover valuable insights that could inform business decisions.
+
+I started by building a relational database in MySQL from scratch, giving me a solid foundation to store and organize the data. To ensure accuracy and consistency, I applied statistical methods and standardized processes to clean and refine the dataset crucial steps for producing reliable results. Then, using Power BI, I crafted interactive dashboards and visualizations that brought the data to life, revealing key patterns in member demographics, enrollment trends, and policy related decisions.
+
+This project wasn’t just about crunching numbers; it was about turning raw data into a clear story that could guide Orion Health’s future strategies. Through this work, I strengthened my abilities in database design, data standardization, and visualization while showing how data can drive smarter decision making.
+
+
 
 ## Statistical Methods
 Project implementation statistical methods are essential for summarizing data, uncovering patterns, and supporting decision-making. 
