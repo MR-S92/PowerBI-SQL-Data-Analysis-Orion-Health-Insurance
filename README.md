@@ -12,17 +12,22 @@ Designed and implemented a comprehensive data analysis project to enhance profic
 ## Statistical Methods
 Project implementation statistical methods are essential for summarizing data, uncovering patterns, and supporting decision-making. 
 
-Descriptive Statistics: These include measures like mean, median, mode, and standard deviation. They’re used to summarize patient demographics, claim amounts, or policy details, providing a quick snapshot of the data.
+<ins> Descriptive Statistics</ins>:  These include measures like mean, median, mode, and standard deviation. They’re used to summarize patient demographics, claim amounts, or policy details, providing a quick snapshot of the data.
 
-Inferential Statistics: Techniques such as hypothesis testing (e.g., t-tests, ANOVA) and confidence intervals allow analysts to draw conclusions about a population from sample data—crucial for comparing groups like policy tiers or regions.
+<ins>Inferential Statistics</ins>: Techniques such as hypothesis testing (e.g., t-tests, ANOVA) and confidence intervals allow analysts to draw conclusions about a population from sample data—crucial for comparing groups like policy tiers or regions.
 
-Regression Analysis: This models relationships between variables, such as predicting claim amounts based on age or policy type, making it a go-to method for forecasting and understanding key drivers.
+<ins>Regression Analysis</ins>: This models relationships between variables, such as predicting claim amounts based on age or policy type, making it a go-to method for forecasting and understanding key drivers.
 
-Time Series Analysis: For temporal data, like claims filed over months or years, this method identifies trends or seasonal patterns, which is valuable in insurance for planning and resource allocation.
+<ins>Time Series Analysis</ins>: For temporal data, like claims filed over months or years, this method identifies trends or seasonal patterns, which is valuable in insurance for planning and resource allocation.
 
-Survival Analysis: Common in healthcare, this analyzes time-to-event data, such as the time until a member files a claim or cancels a policy, offering insights into customer behavior or risk.
+<ins>Survival Analysis</ins>: Common in healthcare, this analyzes time-to-event data, such as the time until a member files a claim or cancels a policy, offering insights into customer behavior or risk.
 
 These methods are widely applicable because they address the core needs of healthcare analytics: summarizing complex datasets, testing hypotheses, and predicting outcomes.
+
+<details>
+<summary>Statistical methods used: </summary>
+This is a dropdown with text!
+</details>
 
 ## Dataset used 
 
