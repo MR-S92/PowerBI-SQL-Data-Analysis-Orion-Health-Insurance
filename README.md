@@ -14,12 +14,27 @@ I started by building a relational database in MySQL from scratch, giving me a s
 This project wasn’t just about crunching numbers; it was about turning raw data into a clear story that could guide Orion Health’s future strategies. Through this work, I strengthened my abilities in database design, data standardization, and visualization while showing how data can drive smarter decision making.
 
 ## Dataset used 
-![image](https://github.com/user-attachments/assets/b9e80352-6626-43d1-aac6-ec5f5c413c09)
+(Instert Summery here)
+<details>
+<summary>SQL Data Structure used: </summary>
+  
+  ## Orion's Entity-Relationship Diagram
+  
+<img src="https://github.com/user-attachments/assets/b9e80352-6626-43d1-aac6-ec5f5c413c09" width="800" height="700"/>
+
+</details>
 
 
 
 <!--
 
+![image](https://github.com/user-attachments/assets/b9e80352-6626-43d1-aac6-ec5f5c413c09)
+
+-->
+
+
+<!--
++ Comments:
 - Make a small SQL introduction.
 - Present the four tables.
 -
@@ -30,6 +45,12 @@ This project wasn’t just about crunching numbers; it was about turning raw dat
 
 ## Statistical Methods
 Project implementation statistical methods are essential for summarizing data, uncovering patterns, and supporting decision-making. 
+
+<!--
++ Comments:
+- Also, add that you needed 1,000 members / data to properly use a specific statistical methos etc.
+
+-->
 
 <ins> Descriptive Statistics</ins>:  These include measures like mean, median, mode, and standard deviation. They’re used to summarize patient demographics, claim amounts, or policy details, providing a quick snapshot of the data.
 
