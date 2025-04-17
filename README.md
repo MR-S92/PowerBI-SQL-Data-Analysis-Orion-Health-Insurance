@@ -14,6 +14,9 @@ I started by building a relational database in MySQL from scratch, giving me a s
 This project wasn’t just about crunching numbers; it was about turning raw data into a clear story that could guide Orion Health’s future strategies. Through this work, I strengthened my abilities in database design, data standardization, and visualization while showing how data can drive smarter decision making.
 
 ## Dataset used 
+![image](https://github.com/user-attachments/assets/b9e80352-6626-43d1-aac6-ec5f5c413c09)
+
+
 
 <!--
 
@@ -44,6 +47,10 @@ These methods are widely applicable because they address the core needs of healt
 <summary>Statistical methods used: </summary>
 This is a dropdown with text!
 </details>
+
+
+
+
 
 
 
